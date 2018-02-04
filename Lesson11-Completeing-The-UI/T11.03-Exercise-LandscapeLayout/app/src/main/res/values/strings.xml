@@ -1,4 +1,5 @@
 <resources>
+    <string name="barcode_Description">Boarding Barcode</string>
     <string name="app_name">BoardingPass</string>
     <string name="passenger_label">PASSENGER</string>
     <string name="passenger_name">MR. JAMES BOND</string>
